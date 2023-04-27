@@ -7,11 +7,11 @@ Currently focused on learning with Python, but exposed to all aspects of data de
 
 ### my favorite tools
 
-* [HTML & CSS](https://html.com/) - the fundamental tool for building the website
-* [JavaScript](https://www.javascript.com/) - the magic tool for the dynamic web
-* [BOOTSTRAP](https://getbootstrap.com/) - the amazing tool for building layouts
-* [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
-* [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
+* [Python](https://www.python.org/) - Software development, web scraping and development, data analysis and visualization, and machine learning
+* [VSCode](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications
+* [Dbeaver](https://dbeaver.io/) - Universal tools A free, multi-platform database for developers, database administrators, analysts, and anyone else who needs to work with databases
+* [RStudio](https://posit.co/) - versatile and extensible BI tool powered by machine learning and is capable of insightful statistical data analysis and forecasting capabilities
+
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
