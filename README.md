@@ -6,6 +6,10 @@
 - :briefcase: I'm a part of Lautan Luas Tbk
 - :four_leaf_clover: I love music, especially classical music and hip hop
 
+---
+[Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
+---
+
 ### My favorite tools
 ---
 
