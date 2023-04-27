@@ -6,7 +6,7 @@
 - :briefcase: I'm a part of Lautan Luas Tbk
 - :four_leaf_clover: I love music, especially classical music and hip hop
 
-### my favorite tools
+### My favorite tools
 
 * [Python](https://www.python.org/) - Software development, web scraping and development, data analysis and visualization, and machine learning
 * [VSCode](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications
@@ -18,6 +18,16 @@
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Data Science Projects
+---
+
+### [Business Decision Research](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Data_Analyst_Project_Business_Decision_Research..ipynb)
+
+### [Basic Feature Discovering for Machine Learning](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/basic_feature_discovering_for_machine_learning.py)
+
+### [Android Malware](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Android_Malware.py)
+
 
 Thank you for visiting my GitHub profile. Have a nice day!
 
