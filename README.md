@@ -7,6 +7,7 @@
 - :four_leaf_clover: I love music, especially classical music and hip hop
 
 ### My favorite tools
+---
 
 * [Python](https://www.python.org/) - Software development, web scraping and development, data analysis and visualization, and machine learning
 * [VSCode](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications
