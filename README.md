@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 - :basecamp: I'm from Indonesia
-- :ausmed:I'm a graduate of the Chemical Engineering Department from Jayabaya University with a Bachelor of Chemical Engineering degree
+- :school:I'm a graduate of the Chemical Engineering Department from Jayabaya University with a Bachelor of Chemical Engineering degree
 - :electron: I love to explore **data science** and **data analyst**
 - :briefcase: I'm a part of Lautan Luas Tbk
 - :four_leaf_clover: I love music, especially classical music and hip hop
