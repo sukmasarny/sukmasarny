@@ -30,10 +30,8 @@ This is my Curriculum Vitae :
 ## GitHub
 ---
 
-![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
-![sukmasarny GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA)
+![sukmasarny GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact) <br>
-[![sukmasarny top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhang&layout=compact&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA&langs_cont=10)](https://github.com/sukmasarny)
 
 ## Data Science Projects
 ---
