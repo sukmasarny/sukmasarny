@@ -8,7 +8,7 @@
 
 ---
 [Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
----
+
 
 ### My favorite tools
 ---
@@ -24,6 +24,8 @@
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 ## Data Science Projects
 ---
 
@@ -34,9 +36,12 @@
 ### [Android Malware](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Android_Malware.py)
 
 
+
 Thank you for visiting my GitHub profile. Have a nice day!
 
 You can find me on:
+
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sukma-sarny-934380111/)](https://www.linkedin.com/in/sukma-sarny-934380111/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)](https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)
