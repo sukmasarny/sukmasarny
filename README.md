@@ -13,5 +13,5 @@ Currently focused on learning with Python, but exposed to all aspects of data de
 * [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
 * [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
 
-![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&hide=contribs,prs) <br>
+![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denycode-dev)](https://github.com/deni-irawan40563/github-readme-stats)
