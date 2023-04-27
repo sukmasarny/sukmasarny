@@ -33,7 +33,7 @@ This is my Curriculum Vitae :
 ![sukmasarny GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact) <br>
 
-## Data Science Projects
+## Projects (Python)
 ---
 
 ### [Business Decision Research](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Data_Analyst_Project_Business_Decision_Research..ipynb)
