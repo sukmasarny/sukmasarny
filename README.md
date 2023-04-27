@@ -11,7 +11,7 @@
 
 ---
 This is my Curriculum Vitae : 
-[Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
+[Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/Curriculum%20Vitae.pdf)
 <br><br>
 
 ### My favorite tools
