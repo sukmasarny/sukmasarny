@@ -14,4 +14,4 @@ Currently focused on learning with Python, but exposed to all aspects of data de
 * [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
