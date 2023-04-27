@@ -6,6 +6,8 @@
 - :electron: I love to explore **data science** and **data analyst**
 - :briefcase: I'm a part of Lautan Luas Tbk
 - :four_leaf_clover: I love music, especially classical music and hip hop
+- :dizzy:As a data enthusiast, I have a strong growth mindset. I take various courses to improve my skills in the data science field
+- :dizzy:I'm a quick learner, detail-oriented, and able to communicate technical matters in a simple way
 
 ---
 [Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
