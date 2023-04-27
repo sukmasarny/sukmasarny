@@ -23,7 +23,7 @@ This is my Curriculum Vitae :
 * [RStudio](https://posit.co/) - versatile and extensible BI tool powered by machine learning and is capable of insightful statistical data analysis and forecasting capabilities
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stat 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact) <br>
 
 
 ## Data Science Projects
