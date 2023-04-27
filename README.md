@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sukmasarny   <a href="https://github.com/sukmasarny" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+## 👋 Hi, I'm Sukmasarny   <a href="https://github.com/sukmasarny/sukmasarny100.github.io" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 ### Welcome to my GitHub!
 - :basecamp: I'm from Indonesia
