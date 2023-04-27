@@ -37,5 +37,17 @@ You can find me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sukma-sarny-934380111/)](https://www.linkedin.com/in/sukma-sarny-934380111/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)](https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)
 
+---
+<p>
+  <small>
+    Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+    |
+    Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a>
+    |
+    Umbrella icons created by <a href="https://www.flaticon.com/free-icons/umbrella" title="umbrella icons">photo3idea_studio &mdash; Flaticon</a>
+    |
+    Github readme stats created by <a href="https://github.com/adhang/github-readme-stats">adhang</a>
+  </small>
+</p>
 
 
