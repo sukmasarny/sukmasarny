@@ -10,6 +10,7 @@
 - :dizzy:I'm a quick learner, detail-oriented, and able to communicate technical matters in a simple way
 
 ---
+This is my Curriculum vitae:
 [Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
 <br><br>
 
