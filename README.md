@@ -1,9 +1,10 @@
-<a href="https://github.com/deni-irawan40563/deni-irawan40563" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/denycode-dev/denycode-dev?label=profile%20updated&style=flat-square"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=denycode-dev.denycode-dev)
-# WELCOME I AM WA ODE SUKMASARNY MUSDIGASWATI   <a href="https://github.com/sukmasarny/sukmasarny" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-## I AM DATA ENTHUSIAST
+## 👋 Hi, I'm Sukmasarny   <a href="https://github.com/sukmasarny/sukmasarny" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
-Currently focused on learning with Python, but exposed to all aspects of data development including data science, data analyst, business analyst, machine learning, Artificial Intelligence version management with git. I do programming full time. Go Up and Never Stop.
+### Welcome to my GitHub!
+- :basecamp: I'm from Indonesia
+- :electron: I love to explore **data science** and **data analyst**
+- :briefcase: I'm a part of Lautan Luas Tbk
+- :four_leaf_clover: I love music, especially classical music and hip hop
 
 ### my favorite tools
 
@@ -15,3 +16,13 @@ Currently focused on learning with Python, but exposed to all aspects of data de
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Thank you for visiting my GitHub profile. Have a nice day!
+
+You can find me on:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sukma-sarny-934380111/)](https://www.linkedin.com/in/sukma-sarny-934380111/)
+
+<!--
+**adhang/adhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
