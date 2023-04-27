@@ -40,7 +40,7 @@ This is my Curriculum Vitae :
 
 ### [Basic Feature Discovering for Machine Learning](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/basic_feature_discovering_for_machine_learning.py)
 
-### [Android Malware](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Android_Malware.py)
+### [Android Malware](https://github.com/sukmasarny/Digital_Kominfo)
 
 
 <br><br>
