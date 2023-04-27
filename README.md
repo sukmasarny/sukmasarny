@@ -22,6 +22,7 @@ Thank you for visiting my GitHub profile. Have a nice day!
 You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sukma-sarny-934380111/)](https://www.linkedin.com/in/sukma-sarny-934380111/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)](https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)
 
 <!--
 **adhang/adhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
