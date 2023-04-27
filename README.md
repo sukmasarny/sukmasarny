@@ -25,7 +25,7 @@ This is my Curriculum Vitae :
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stat 
-<br><br>
+
 
 ## Data Science Projects
 ---
