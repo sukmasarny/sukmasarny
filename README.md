@@ -13,6 +13,8 @@
 * [Dbeaver](https://dbeaver.io/) - Universal tools A free, multi-platform database for developers, database administrators, analysts, and anyone else who needs to work with databases
 * [RStudio](https://posit.co/) - versatile and extensible BI tool powered by machine learning and is capable of insightful statistical data analysis and forecasting capabilities
 
+[Download Curriculum Vitae](https://github.com/sukmasarny/curriculum-vitae/blob/main/CV.pdf)
+
 
 ![sukmasarny Github Stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
