@@ -42,6 +42,10 @@ This is my Curriculum Vitae :
 
 ### [Android Malware](https://github.com/sukmasarny/Digital_Kominfo)
 
+### [Building_Recommender_System_Average_Rating_(Film)](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/Building_Recommender_System_Average_Rating_(Film).ipynb)
+
+### [Stroke Prediction](https://github.com/sukmasarny/sukmasarny100.github.io/blob/main/stroke_prediction.py)
+
 
 <br><br>
 Thank you for visiting my GitHub profile. Have a nice day!
